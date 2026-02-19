@@ -1,0 +1,5 @@
+MONGODB_URI=mongodb+srv://localhost:27017/
+MONGODB_DATABASE=McDonaldsLab
+COLLECTION_NAME=McDonaldsData
+
+
