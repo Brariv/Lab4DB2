@@ -4,7 +4,7 @@
 https://github.com/Brariv/Lab4DB2
 
 # Link del video: 
-https://www.youtube.com/watch?v=9n8sXo2l7j0
+https://www.youtube.com/watch?v=K8jQDcM1djE
 
 ## Descripción
 Se implementa la arquitectura utilizando librerías que implementan MongoDB.
