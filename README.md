@@ -14,6 +14,8 @@ Se implementa la arquitectura utilizando librerías que implementan MongoDB.
 ![MongoDB Charts1](./images/Tabla1.png)
 ![MongoDB Charts2](./images/Tabla2.png)
 ![MongoDB KPIs](./images/Dashboard.png)
+![MongoDB KPIs2](./images/image.png)
+
 
 ## Uso
 1. Asegúrate de tener MongoDB instalado y en ejecución en tu máquina.
