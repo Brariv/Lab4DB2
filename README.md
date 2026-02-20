@@ -11,6 +11,7 @@ Se implementa la arquitectura utilizando librerías que implementan MongoDB.
     ```
     pip install python-dotenv  
     pip install pymongo 
+    pip install "pymongo[srv]"
     ```
 4. Crea un archivo `.env` en la raíz del proyecto y agrega tu URI de MongoDB, el nombre de la base de datos y el nombre de la colección:
     ```
