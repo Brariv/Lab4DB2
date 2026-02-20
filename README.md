@@ -35,4 +35,4 @@ Se implementa la arquitectura utilizando librerías que implementan MongoDB.
 
 ## Data
 El archivo CSV utilizado viene de Kaggle
-[McDonald's Data](https://www.kaggle.com/datasets/ashpalsingh1525/mcdonaldsdataset) 
+[McDonald's Store Data](https://www.kaggle.com/datasets/forveryou/mcdonalds-stores-data) 
