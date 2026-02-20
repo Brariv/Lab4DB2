@@ -32,3 +32,7 @@ Se implementa la arquitectura utilizando librerías que implementan MongoDB.
 - Crea documentos embebidos a partir de los datos del CSV.
 - Sube los datos a MongoDB utilizando operaciones de escritura en bloque (bulk write).
 - Imprime el resultado de la operación de subida a MongoDB, incluyendo la cantidad de documentos.
+
+## Data
+El archivo CSV utilizado viene de Kaggle
+[McDonald's Data](https://www.kaggle.com/datasets/ashpalsingh1525/mcdonaldsdataset) 
